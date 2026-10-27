@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-labelledby="title">
+<title id="title">Illustrative bottle study for Giardini di Toscana Bianco Latte</title>
+<defs>
+  <linearGradient id="glass" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff" stop-opacity=".78"/><stop offset=".3" stop-color="#e8e3d9" stop-opacity=".66"/><stop offset=".72" stop-color="#fff" stop-opacity=".82"/><stop offset="1" stop-color="#d9d3c8" stop-opacity=".72"/></linearGradient>
+  <linearGradient id="liquid" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#9a684c" stop-opacity=".28"/><stop offset="1" stop-color="#9a684c" stop-opacity=".72"/></linearGradient>
+  <linearGradient id="cap" x1="0" x2="1"><stop stop-color="#171614"/><stop offset=".48" stop-color="#302d28"/><stop offset="1" stop-color="#100f0e"/></linearGradient>
+  <filter id="shadow" x="-.3" y="-.2" width="1.6" height="1.7"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="700" height="700" fill="#f1efe9"/>
+<ellipse cx="350" cy="605" rx="158" ry="22" fill="#62513e" opacity=".14" filter="url(#shadow)"/>
+<ellipse cx="350" cy="596" rx="145" ry="14" fill="#76654f" opacity=".1"/>
+<rect x="286" y="126" width="128" height="79" rx="9" fill="url(#cap)"/>
+<rect x="302" y="194" width="96" height="39" rx="4" fill="#292722"/>
+<path d="M270 225 Q270 212 284 208 L310 198 L390 198 L416 208 Q430 212 430 225 L460 252 Q476 266 476 286 L476 558 Q476 582 452 582 L248 582 Q224 582 224 558 L224 286 Q224 266 240 252 Z" fill="url(#glass)" stroke="#cfc8bc" stroke-width="3"/>
+<path d="M235 437 H465 V556 Q465 570 449 570 H251 Q235 570 235 556Z" fill="url(#liquid)"/>
+<path d="M242 275 Q242 260 255 255 L278 242" fill="none" stroke="#fff" stroke-opacity=".78" stroke-width="8" stroke-linecap="round"/>
+<path d="M455 287 V520" fill="none" stroke="#fff" stroke-opacity=".42" stroke-width="5" stroke-linecap="round"/>
+<rect x="263" y="314" width="174" height="185" rx="2" fill="#f8f6f0" stroke="#d7d0c4" stroke-width="1.5"/>
+<path d="M280 329 H420" stroke="#c5b89f" stroke-width="1"/>
+<text x="350" y="350" text-anchor="middle" fill="#342b24" font-family="Arial, sans-serif" font-size="13" font-weight="500"><tspan x="350" dy="0">GIARDINI DI TOSCANA</tspan></text>
+<text x="350" y="414" text-anchor="middle" fill="#342b24" font-family="Georgia, serif" font-size="18" font-weight="400"><tspan x="350" dy="0">Bianco Latte</tspan></text>
+<text x="350" y="477" text-anchor="middle" fill="#8d806b" font-family="Arial, sans-serif" font-size="8" letter-spacing="2">EAU DE PARFUM</text>
+<path d="M280 486 H420" stroke="#c5b89f" stroke-width="1"/>
+<text x="350" y="630" text-anchor="middle" fill="#8f8678" font-family="Arial, sans-serif" font-size="9" letter-spacing="2.4">MAISON SILLAGE · BOTTLE STUDY</text>
+</svg>

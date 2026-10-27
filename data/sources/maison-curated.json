@@ -1,0 +1,1947 @@
+[
+  {
+    "id": "ms-001",
+    "brand": "Tom Ford",
+    "name": "Oud Wood Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "amber",
+      "spicy"
+    ],
+    "notes": [
+      "Cardamom",
+      "Pink pepper",
+      "Patchouli",
+      "Amber",
+      "Oud",
+      "Tonka bean"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 300,
+    "bottleSizeMl": 50,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum"
+    ],
+    "priceSourceUrl": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-002",
+    "brand": "Byredo",
+    "name": "Gypsy Water",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "citrus",
+      "vanilla"
+    ],
+    "notes": [
+      "Bergamot",
+      "Juniper berries",
+      "Lemon",
+      "Pepper",
+      "Incense",
+      "Orris",
+      "Pine needle",
+      "Amber",
+      "Sandalwood",
+      "Vanilla"
+    ],
+    "climates": [
+      "mild",
+      "cool"
+    ],
+    "occasions": [
+      "daily",
+      "office",
+      "date night"
+    ],
+    "intensity": "moderate",
+    "priceUsd": 235,
+    "bottleSizeMl": 50,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum"
+    ],
+    "priceSourceUrl": "https://www.byredo.com/us_en/p/gypsy-water-eau-de-parfum",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-003",
+    "brand": "Jo Malone London",
+    "name": "Wood Sage & Sea Salt Cologne",
+    "concentration": "Cologne",
+    "families": [
+      "woody",
+      "fresh",
+      "aquatic"
+    ],
+    "notes": [
+      "Ambrette seeds",
+      "Sea salt",
+      "Sage"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.jomalone.com/wood-sage-sea-salt"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-004",
+    "brand": "Lattafa",
+    "name": "Khamrah",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "spicy",
+      "gourmand",
+      "vanilla",
+      "amber"
+    ],
+    "notes": [
+      "Bergamot",
+      "Cinnamon",
+      "Nutmeg",
+      "Dates accord",
+      "Praline",
+      "Tuberose",
+      "Vanilla",
+      "Myrrh"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 48,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://lattafa.com/product/khamrah/",
+      "https://lattafa-usa.com/collections/fragrances"
+    ],
+    "priceSourceUrl": "https://lattafa-usa.com/collections/fragrances",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-005",
+    "brand": "Tom Ford",
+    "name": "Tobacco Vanille Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "vanilla",
+      "spicy",
+      "gourmand",
+      "amber"
+    ],
+    "notes": [
+      "Tobacco leaf",
+      "Ginger",
+      "Spice notes",
+      "Tonka bean",
+      "Cocoa",
+      "Fruit accord",
+      "Vanilla"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 300,
+    "bottleSizeMl": 50,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum"
+    ],
+    "priceSourceUrl": "https://www.tomfordbeauty.com/products/tobacco-vanille-eau-de-parfum",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-006",
+    "brand": "Dior",
+    "name": "Sauvage Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "citrus",
+      "woody",
+      "vanilla"
+    ],
+    "notes": [
+      "Bergamot",
+      "Patchouli",
+      "Vanilla"
+    ],
+    "climates": [
+      "mild",
+      "cool"
+    ],
+    "occasions": [
+      "daily",
+      "evening"
+    ],
+    "intensity": null,
+    "priceUsd": 95,
+    "bottleSizeMl": 30,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-E000000376.html"
+    ],
+    "priceSourceUrl": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-E000000376.html",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-007",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "floral",
+      "fresh"
+    ],
+    "notes": [
+      "Orange blossom",
+      "Lavender"
+    ],
+    "climates": [
+      "mild",
+      "cool"
+    ],
+    "occasions": [
+      "daily",
+      "office",
+      "evening"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.yslbeautyus.com/libre-collection.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-008",
+    "brand": "Lattafa",
+    "name": "Yara",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "floral",
+      "vanilla",
+      "gourmand"
+    ],
+    "notes": [
+      "Tangerine",
+      "Heliotrope",
+      "Orchid",
+      "Tropical notes",
+      "Gourmand accord",
+      "Vanilla",
+      "Sandalwood",
+      "Musk"
+    ],
+    "climates": [
+      "mild",
+      "cool"
+    ],
+    "occasions": [
+      "daily",
+      "date night"
+    ],
+    "intensity": null,
+    "priceUsd": 39,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.lattafaindia.com/products/yara",
+      "https://lattafa-usa.com/collections/fragrances"
+    ],
+    "priceSourceUrl": "https://lattafa-usa.com/collections/fragrances",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-009",
+    "brand": "Lattafa",
+    "name": "Eclaire",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "gourmand",
+      "vanilla"
+    ],
+    "notes": [
+      "Caramel",
+      "Milk",
+      "Sugar",
+      "White flowers",
+      "Honey",
+      "Vanilla",
+      "Praline",
+      "Musk"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 49.5,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://lattafa-usa.com/products/lattafa-eclaire-eau-de-parfum-for-women"
+    ],
+    "priceSourceUrl": "https://lattafa-usa.com/products/lattafa-eclaire-eau-de-parfum-for-women",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-010",
+    "brand": "Lattafa",
+    "name": "Fakhar Eau de Parfum for Women",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "floral",
+      "woody"
+    ],
+    "notes": [
+      "Orange blossom",
+      "Tuberose",
+      "Jasmine",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "climates": [
+      "mild",
+      "cool"
+    ],
+    "occasions": [
+      "daily",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 39,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://lattafa-usa.com/products/lattafa-fakhar-eau-de-parfum-for-women"
+    ],
+    "priceSourceUrl": "https://lattafa-usa.com/products/lattafa-fakhar-eau-de-parfum-for-women",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-011",
+    "brand": "Tom Ford",
+    "name": "Lost Cherry Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "gourmand",
+      "floral",
+      "amber"
+    ],
+    "notes": [
+      "Black cherry accord",
+      "Bitter almond",
+      "Griotte syrup accord",
+      "Rose absolute",
+      "Peru balsam",
+      "Roasted tonka"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 405,
+    "bottleSizeMl": 50,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum"
+    ],
+    "priceSourceUrl": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-012",
+    "brand": "Byredo",
+    "name": "Bal d’Afrique",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "floral",
+      "woody",
+      "citrus"
+    ],
+    "notes": [
+      "Bergamot",
+      "African marigold",
+      "Blackcurrant",
+      "Violet",
+      "Cyclamen",
+      "Cedarwood",
+      "Vetiver"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "daily",
+      "office"
+    ],
+    "intensity": "moderate",
+    "priceUsd": null,
+    "bottleSizeMl": 50,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.byredo.com/eu_en/p/bal-d-afrique-eau-de-parfum"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-013",
+    "brand": "Le Labo",
+    "name": "Santal 33",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "leather",
+      "spicy"
+    ],
+    "notes": [
+      "Cardamom",
+      "Iris",
+      "Violet",
+      "Australian sandalwood",
+      "Cedarwood",
+      "Leather accord",
+      "Musk"
+    ],
+    "climates": [
+      "mild",
+      "cool"
+    ],
+    "occasions": [
+      "daily",
+      "date night",
+      "evening"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.lelabofragrances.com/santal-33-147.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-014",
+    "brand": "Le Labo",
+    "name": "Another 13",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "amber",
+      "fresh",
+      "floral"
+    ],
+    "notes": [
+      "Ambroxyde",
+      "Jasmine",
+      "Moss"
+    ],
+    "climates": [
+      "mild",
+      "cool"
+    ],
+    "occasions": [
+      "daily",
+      "office"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.lelabofragrances.com/another-13-463.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-015",
+    "brand": "Le Labo",
+    "name": "Bergamote 22",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "citrus",
+      "fresh"
+    ],
+    "notes": [
+      "Bergamot"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.lelabofragrances.com/bergamote-22.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-016",
+    "brand": "Le Labo",
+    "name": "Rose 31",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "floral",
+      "woody",
+      "spicy"
+    ],
+    "notes": [
+      "Centifolia rose"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.lelabofragrances.com/rose-31.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-017",
+    "brand": "Le Labo",
+    "name": "Thé Noir 29",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "spicy"
+    ],
+    "notes": [
+      "Black tea"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.lelabofragrances.com/th-noir-29.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-018",
+    "brand": "Le Labo",
+    "name": "Vetiver 46",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "spicy"
+    ],
+    "notes": [
+      "Vetiver"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.lelabofragrances.com/vetiver-46.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-019",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Lazy Sunday Morning",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "fresh",
+      "floral"
+    ],
+    "notes": [
+      "Lily of the valley",
+      "White musks",
+      "Iris",
+      "Ambrette seeds"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-020",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Beach Walk",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "fresh",
+      "floral"
+    ],
+    "notes": [
+      "Bergamot",
+      "Ylang-ylang",
+      "Coconut milk accord",
+      "White musks"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-021",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Bubble Bath",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "fresh",
+      "floral"
+    ],
+    "notes": [
+      "Soap bubbles accord",
+      "Coconut milk accord",
+      "Rose",
+      "White musks"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-022",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Jazz Club",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "spicy",
+      "vanilla",
+      "amber"
+    ],
+    "notes": [
+      "Pink pepper",
+      "Rum absolute",
+      "Vanilla bean",
+      "Tobacco leaf"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-023",
+    "brand": "Maison Margiela",
+    "name": "REPLICA By the Fireplace",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "woody",
+      "spicy",
+      "gourmand"
+    ],
+    "notes": [
+      "Red berries",
+      "Clove oil",
+      "Chestnut accord",
+      "Cashmeran"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-024",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Sailing Day",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "aquatic",
+      "fresh"
+    ],
+    "notes": [
+      "Aquatic accord",
+      "Coriander",
+      "Red seaweed",
+      "Ambergris"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-025",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Coffee Break",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "gourmand",
+      "floral"
+    ],
+    "notes": [
+      "Coffee accord",
+      "Lavender",
+      "Spearmint",
+      "Milk mousse accord"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-026",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Autumn Vibes",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "woody",
+      "spicy"
+    ],
+    "notes": [
+      "Cedarwood",
+      "Moss accord",
+      "Pink pepper",
+      "Cardamom"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-027",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Under the Lemon Trees",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "citrus",
+      "fresh",
+      "woody"
+    ],
+    "notes": [
+      "Kalamansi lime accord",
+      "Coriander",
+      "Cedarwood"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-028",
+    "brand": "Maison Margiela",
+    "name": "REPLICA Springtime in a Park",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "floral",
+      "fresh"
+    ],
+    "notes": [
+      "Lily of the valley accord",
+      "Jasmine absolute",
+      "Pear accord"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.maisonmargiela-fragrances.us/replica-memory-box/3614273668811.html?geo=false"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-029",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Eau de Parfum Intense",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "vanilla",
+      "floral"
+    ],
+    "notes": [
+      "Orange blossom",
+      "Lavender",
+      "Bourbon vanilla"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.yslbeautyus.com/libre-collection.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-030",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Le Parfum",
+    "concentration": null,
+    "families": [
+      "floral",
+      "spicy"
+    ],
+    "notes": [
+      "Orange blossom",
+      "Lavender",
+      "Saffron accord"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.yslbeautyus.com/libre-collection.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-031",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre L’Eau Nue",
+    "concentration": null,
+    "families": [
+      "citrus",
+      "floral",
+      "fresh"
+    ],
+    "notes": [
+      "Orange blossom",
+      "Lavender",
+      "Bergamot",
+      "Green mandarin"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.yslbeautyus.com/libre-collection.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-032",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Flowers & Flames",
+    "concentration": null,
+    "families": [
+      "floral"
+    ],
+    "notes": [
+      "Orange blossom",
+      "Lavender",
+      "Coco-palm tree flower accord",
+      "Lily flower accord"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.yslbeautyus.com/libre-collection.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-033",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "floral",
+      "fresh"
+    ],
+    "notes": [
+      "Lavender",
+      "Orange blossom",
+      "White tea accord"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.yslbeautyus.com/libre-collection.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-034",
+    "brand": "Chanel",
+    "name": "Bleu de Chanel Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "citrus",
+      "fresh"
+    ],
+    "notes": [
+      "Cedar",
+      "New Caledonian sandalwood",
+      "Amber accord",
+      "Musk"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": 173,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.chanel.com/us/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/"
+    ],
+    "priceSourceUrl": "https://www.chanel.com/us/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-035",
+    "brand": "Hermès",
+    "name": "Terre d’Hermès Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "woody",
+      "citrus",
+      "spicy"
+    ],
+    "notes": [
+      "Grapefruit",
+      "Cedar",
+      "Flint"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": 204,
+    "bottleSizeMl": 200,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.hermes.com/us/en/product/terre-d-hermes-eau-de-toilette-V107748V0/"
+    ],
+    "priceSourceUrl": "https://www.hermes.com/us/en/product/terre-d-hermes-eau-de-toilette-V107748V0/",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-036",
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Giò Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "aquatic",
+      "citrus",
+      "fresh"
+    ],
+    "notes": [
+      "Calabrian bergamot",
+      "Neroli",
+      "Green tangerine",
+      "Marine notes",
+      "Rosemary",
+      "Persimmon",
+      "Patchouli"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.giorgioarmanibeauty-usa.com/fragrances/mens-cologne/acqua-di-gio/acqua-di-gio-eau-de-toilette/3614273955522.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-037",
+    "brand": "Prada",
+    "name": "L’Homme Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "floral",
+      "fresh",
+      "woody"
+    ],
+    "notes": [
+      "Neroli",
+      "Violet",
+      "Geranium",
+      "Iris",
+      "Pepper",
+      "Amber",
+      "Cedarwood",
+      "Patchouli"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": 136,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.prada.com/us/en/p/lhomme-prada-edt-100-ml/2A1251_2HC0_F0Z99_P_ML100"
+    ],
+    "priceSourceUrl": "https://www.prada.com/us/en/p/lhomme-prada-edt-100-ml/2A1251_2HC0_F0Z99_P_ML100",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-038",
+    "brand": "Guerlain",
+    "name": "Shalimar Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "amber",
+      "vanilla",
+      "citrus"
+    ],
+    "notes": [
+      "Vanilla",
+      "Bergamot",
+      "Iris"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.guerlain.com/us/en-us/p/shalimar-eau-de-parfum-P011355.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-039",
+    "brand": "Viktor&Rolf",
+    "name": "Flowerbomb Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "floral",
+      "amber"
+    ],
+    "notes": [
+      "Peony accord",
+      "Centifolia rose accord",
+      "Freesia accord"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": 50,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.viktor-rolf.com/products/flowerbomb-eau-de-parfum-50ml"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-040",
+    "brand": "Narciso Rodriguez",
+    "name": "For Her Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "floral",
+      "woody"
+    ],
+    "notes": [
+      "Peach",
+      "Rose",
+      "Musk",
+      "Patchouli",
+      "Amber"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.narcisorodriguezparfums.com/en/narciso-rodriguez-for-her/for-her-edp.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-041",
+    "brand": "Creed",
+    "name": "Aventus",
+    "concentration": null,
+    "families": [
+      "woody",
+      "fresh"
+    ],
+    "notes": [
+      "Pineapple",
+      "Bergamot",
+      "Blackcurrant",
+      "Jasmine",
+      "Birch",
+      "Juniper berries",
+      "Oakmoss",
+      "Vanilla",
+      "Ambergris"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.creedfragrance.com/c/fragrances/aventus-collection/"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-042",
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540 Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "amber",
+      "woody",
+      "floral"
+    ],
+    "notes": [
+      "Saffron accord"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.franciskurkdjian.com/int-en/fragrances/saffron-accord-perfumes/"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-043",
+    "brand": "Diptyque",
+    "name": "Philosykos Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "fresh"
+    ],
+    "notes": [
+      "Fig leaves",
+      "Fig tree sap",
+      "Fig tree wood",
+      "Black pepper"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": 75,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://diptyqueparis.com/en-eu/products/eau-de-parfum-philosykos-philop75cv1"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-044",
+    "brand": "Diptyque",
+    "name": "Tam Dao Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "woody",
+      "spicy"
+    ],
+    "notes": [
+      "Sandalwood",
+      "Cedar",
+      "Cypress",
+      "Coriander"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": 75,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.diptyqueparis.com/en_eu/p/fragrances/olfactory-families/woody/tam-dao-eau-de-parfum-75ml-1.html"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-045",
+    "brand": "Tom Ford",
+    "name": "Ombré Leather Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "leather",
+      "woody",
+      "floral"
+    ],
+    "notes": [
+      "Black leather accord",
+      "Cardamom",
+      "Jasmine sambac",
+      "Patchouli",
+      "White moss",
+      "Amber"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 165,
+    "bottleSizeMl": 50,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum"
+    ],
+    "priceSourceUrl": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-046",
+    "brand": "Lattafa",
+    "name": "Asad",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "amber",
+      "spicy",
+      "vanilla"
+    ],
+    "notes": [
+      "Black pepper",
+      "Pineapple",
+      "Tobacco",
+      "Coffee",
+      "Iris",
+      "Patchouli",
+      "Amber",
+      "Vanilla",
+      "Dry woods",
+      "Benzoin",
+      "Labdanum"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 36,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://lattafa.com/product/asad/",
+      "https://lattafa-usa.com/collections/fragrances"
+    ],
+    "priceSourceUrl": "https://lattafa-usa.com/collections/fragrances",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-047",
+    "brand": "Lattafa",
+    "name": "Bade’e Al Oud Oud for Glory",
+    "concentration": null,
+    "families": [
+      "woody",
+      "spicy",
+      "amber"
+    ],
+    "notes": [
+      "Oud",
+      "Patchouli"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://lattafa.com/product/badee-al-oud-oud-for-glory/"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": "The official page lists conflicting note pyramids. Only oud and patchouli, shared by both descriptions, are shown; other notes remain unverified."
+  },
+  {
+    "id": "ms-048",
+    "brand": "Armaf",
+    "name": "Club de Nuit Intense Man Eau de Parfum",
+    "concentration": "Eau de Parfum",
+    "families": [
+      "citrus",
+      "woody",
+      "fresh"
+    ],
+    "notes": [
+      "Apple",
+      "Bergamot",
+      "Blackcurrant",
+      "Pineapple",
+      "Lemon",
+      "Rose",
+      "Birch",
+      "Jasmine",
+      "Musk",
+      "Ambergris",
+      "Patchouli",
+      "Vanilla"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": null,
+    "bottleSizeMl": null,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://armaf.com/products/club-de-nuit-intense-for-man"
+    ],
+    "priceSourceUrl": null,
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-049",
+    "brand": "Elizabeth Arden",
+    "name": "Green Tea Scent Spray",
+    "concentration": null,
+    "families": [
+      "fresh",
+      "citrus"
+    ],
+    "notes": [
+      "Bergamot",
+      "Lemon",
+      "Green tea accord",
+      "Jasmine accord",
+      "Celery seeds",
+      "Amber",
+      "Oakmoss",
+      "Musk"
+    ],
+    "climates": [
+      "hot",
+      "mild"
+    ],
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": null,
+    "priceUsd": 52,
+    "bottleSizeMl": 100,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.elizabetharden.com/products/green-tea-scent-spray"
+    ],
+    "priceSourceUrl": "https://www.elizabetharden.com/products/green-tea-scent-spray",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  },
+  {
+    "id": "ms-050",
+    "brand": "Zara",
+    "name": "Red Vanilla Eau de Toilette",
+    "concentration": "Eau de Toilette",
+    "families": [
+      "vanilla",
+      "gourmand",
+      "floral"
+    ],
+    "notes": [
+      "Iris",
+      "Red peony",
+      "Mandarin",
+      "Raspberry",
+      "Vanilla accord"
+    ],
+    "climates": [
+      "cool",
+      "cold"
+    ],
+    "occasions": [
+      "date night",
+      "evening",
+      "special events"
+    ],
+    "intensity": null,
+    "priceUsd": 15.9,
+    "bottleSizeMl": 30,
+    "image": null,
+    "imageLicense": null,
+    "sourceUrls": [
+      "https://www.zara.com/us/en/red-vanilla%C2%A0-edt-30ml--1-0-fl--oz---p20120841.html"
+    ],
+    "priceSourceUrl": "https://www.zara.com/us/en/red-vanilla%C2%A0-edt-30ml--1-0-fl--oz---p20120841.html",
+    "verifiedAt": "2026-10-26",
+    "notesStatus": "verified",
+    "guidanceBasis": "Editorial scent-family, climate and occasion tags; not measured wear performance.",
+    "dataCaveat": null
+  }
+]
